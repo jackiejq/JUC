@@ -12,7 +12,7 @@ public class T01_WhatIsThread {
                } catch (InterruptedException e) {
                    e.printStackTrace();
                }
-               System.out.println("T1");
+               System.out.println("T1hehehe");
            }
         }
     }
