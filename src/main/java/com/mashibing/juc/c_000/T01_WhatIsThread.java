@@ -13,6 +13,7 @@ public class T01_WhatIsThread {
                    e.printStackTrace();
                }
                System.out.println("T1jq");
+               System.out.println("T1jq");
            }
         }
     }
